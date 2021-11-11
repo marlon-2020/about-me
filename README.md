@@ -1,11 +1,14 @@
 <h1 align="center">Fala 👋, Me chamo Marlon Silva Ferreira</h1>
 <h3 align="center">Engenheiro Eletrônico de formação, nerd por compulsão, professor em execução e desenvolvedor em contínua capacitação.</h3>
 
-- 📫 E-mail de mais fácil contato **marlon.ufpe@gmail.com**
+- 📫 E-mail para contato **marlon.ufpe@gmail.com**
 
-<h3 align="left">Redes sociais:</h3>
+<h3 align="left">Links pessoais:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/marlon-silva-ferreira-b397b988/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/marlon-silva-ferreira-b397b988/" height="30" width="40" /></a>
+</p>
+<p>
+<a href="https://www.marlonsf-about.x10host.com">site pessoal</a>
 </p>
 
 <h3 align="left">LInguagens e ferramentas:</h3>
